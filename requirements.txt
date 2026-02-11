@@ -3,3 +3,4 @@ psycopg2-binary
 sqlalchemy
 streamlit-option-menu
 pandas
+python-dotenv
